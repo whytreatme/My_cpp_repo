@@ -1,8 +1,11 @@
-# 忽略所有文件
-*
-# 取消忽略 .cpp 文件
-!*.cpp
-# 取消忽略 .h 文件
-!*.h
-# 取消忽略 README.md 文件
-!README.md
+# 忽略 Visual Studio 配置文件
+     *.sln
+     *.vcxproj
+     *.vcxproj.filters
+     *.suo
+     *.db
+     *.opendb
+     Debug/
+     Release/
+     x64/
+     .vs/
