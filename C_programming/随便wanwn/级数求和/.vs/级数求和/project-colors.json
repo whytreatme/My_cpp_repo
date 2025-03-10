@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b02aa068-38dc-424b-bdbb-053fba28d9e1": {
+      "ProjectGuid": "b02aa068-38dc-424b-bdbb-053fba28d9e1",
+      "DisplayName": "级数求和",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

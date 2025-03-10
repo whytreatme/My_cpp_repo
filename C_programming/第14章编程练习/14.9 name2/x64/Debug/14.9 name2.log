@@ -1,0 +1,3 @@
+﻿  14.9 name2.cpp
+C:\Users\h\source\第14章编程练习\14.9 name2\14.9 name2.cpp(36,59): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  14.9 name2.vcxproj -> C:\Users\h\source\第14章编程练习\14.9 name2\x64\Debug\14.9 name2.exe
