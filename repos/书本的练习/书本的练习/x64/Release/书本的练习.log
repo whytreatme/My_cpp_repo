@@ -1,3 +1,0 @@
-﻿  书本的练习.cpp
-书本的练习.obj : error LNK2001: 无法解析的外部符号 "private: static int Goods::total_weight" (?total_weight@Goods@@0HA)
-C:\Users\h\source\repos\书本的练习\x64\Release\书本的练习.exe : fatal error LNK1120: 1 个无法解析的外部命令
