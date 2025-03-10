@@ -1,0 +1,51 @@
+﻿  源.cpp
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(70,7): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(109,14): warning C4477: “fscanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“int”
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(109,14): warning C4477: “fscanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“int”
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(109,14): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 6 拥有了类型“int”
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(109,14): warning C4477: “fscanf”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 7 拥有了类型“char *”
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(109,105): warning C4474: fscanf: 格式字符串中传递的参数太多
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(109,105): message : 占位符和其参数预计 7 可变参数，但提供的却是 12 参数
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(93,7): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(109,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(131,25): warning C4474: scanf: 格式字符串中传递的参数太多
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(131,25): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(136,26): warning C4474: scanf: 格式字符串中传递的参数太多
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(136,26): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(140,28): warning C4474: scanf: 格式字符串中传递的参数太多
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(140,28): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(142,23): warning C4474: scanf: 格式字符串中传递的参数太多
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(142,23): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(144,29): warning C4474: scanf: 格式字符串中传递的参数太多
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(144,29): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(146,27): warning C4474: scanf: 格式字符串中传递的参数太多
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(146,27): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(131,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(136,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(140,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(142,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(144,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(146,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(148,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(317,22): warning C4474: scanf: 格式字符串中传递的参数太多
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(317,22): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(326,26): warning C4474: scanf: 格式字符串中传递的参数太多
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(326,26): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(331,27): warning C4474: scanf: 格式字符串中传递的参数太多
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(331,27): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(335,29): warning C4474: scanf: 格式字符串中传递的参数太多
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(335,29): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(337,24): warning C4474: scanf: 格式字符串中传递的参数太多
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(337,24): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(339,30): warning C4474: scanf: 格式字符串中传递的参数太多
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(339,30): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(341,28): warning C4474: scanf: 格式字符串中传递的参数太多
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(341,28): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(317,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(326,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(331,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(335,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(337,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(339,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(341,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统2\源.cpp(343,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

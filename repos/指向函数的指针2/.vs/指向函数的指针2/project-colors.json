@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6412aad4-2e17-48d9-bca2-970f45f2e4c7": {
+      "ProjectGuid": "6412aad4-2e17-48d9-bca2-970f45f2e4c7",
+      "DisplayName": "指向函数的指针2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

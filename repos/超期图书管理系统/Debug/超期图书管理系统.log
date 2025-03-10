@@ -1,0 +1,142 @@
+﻿  源.cpp
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(56,11): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(56,15): error C2065: “next”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(73,15): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(73,17): error C2429: 语言功能 "if/switch 中的 init-statement" 需要编译器标志 "/std:c++17"
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(73,19): error C2065: “next”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(80,20): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(80,24): error C2065: “next”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(80,41): error C2146: 语法错误: 缺少“)”(在标识符“p”的前面)
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(80,32): warning C4552: ”!=“: 未使用表达式结果
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(80,43): error C2059: 语法错误:“;”
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(80,50): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(80,58): error C2059: 语法错误:“)”
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(80,54): error C2065: “next”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,50): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,52): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,15): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,15): message : 占位符和其参数预计 7 可变参数，但提供的却是 0 参数
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,15): message : 缺失的可变参数 1 为格式字符串“%s”所需
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,52): error C2059: 语法错误:“;”
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,54): error C2065: “number”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,67): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,71): error C2065: “className”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,87): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,91): error C2065: “name”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,102): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,106): error C2065: “bookNumber”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,123): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,127): error C2065: “bookName”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,142): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,146): error C2065: “day”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,156): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,164): error C2059: 语法错误:“)”
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(82,160): error C2065: “fine”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(71,7): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(85,11): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(85,2): error C2365: “fclose”: 重定义；以前的定义是“函数”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(152): message : 参见“fclose”的声明
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(85,9): error C2065: “fp”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(86,1): error C2059: 语法错误:“}”
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(86,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(90,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(90,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(129,7): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(129,11): error C2065: “next”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(132,19): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(132,21): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(132,8): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(132,8): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(132,8): message : 缺失的可变参数 1 为格式字符串“%s”所需
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(132,23): error C2065: “number”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(132,33): error C2059: 语法错误:“)”
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(137,20): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(137,22): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(137,9): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(137,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(137,9): message : 缺失的可变参数 1 为格式字符串“%s”所需
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(137,24): error C2065: “number”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(137,34): error C2059: 语法错误:“)”
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(141,19): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(141,21): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(141,8): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(141,8): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(141,8): message : 缺失的可变参数 1 为格式字符串“%s”所需
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(141,23): error C2065: “className”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(141,36): error C2059: 语法错误:“)”
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(143,19): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(143,21): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(143,8): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(143,8): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(143,8): message : 缺失的可变参数 1 为格式字符串“%s”所需
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(143,23): error C2065: “name”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(143,31): error C2059: 语法错误:“)”
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(145,19): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(145,21): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(145,8): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(145,8): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(145,8): message : 缺失的可变参数 1 为格式字符串“%s”所需
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(145,23): error C2065: “bookNumber”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(145,37): error C2059: 语法错误:“)”
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(147,19): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(147,21): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(147,8): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(147,8): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(147,8): message : 缺失的可变参数 1 为格式字符串“%s”所需
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(147,23): error C2065: “bookName”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(147,35): error C2059: 语法错误:“)”
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(149,20): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(149,22): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(149,8): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(149,8): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(149,8): message : 缺失的可变参数 1 为格式字符串“%d”所需
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(149,27): error C2059: 语法错误:“)”
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(149,24): error C2065: “day”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(151,7): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(151,11): error C2065: “fine”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(151,23): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(151,27): error C2065: “day”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(153,7): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(153,11): error C2065: “next”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(153,27): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(153,31): error C2065: “next”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(154,11): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(154,15): error C2065: “next”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(132,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(137,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(141,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(143,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(145,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(147,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(149,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(162,20): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(162,24): error C2065: “next”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(162,41): error C2146: 语法错误: 缺少“)”(在标识符“p”的前面)
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(162,32): warning C4552: ”!=“: 未使用表达式结果
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(162,43): error C2059: 语法错误:“;”
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(162,50): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(162,58): error C2059: 语法错误:“)”
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(162,54): error C2065: “next”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(164,3): error C2059: 语法错误:“if”
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(164,22): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(164,24): error C2065: “number”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(164,40): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(164,50): error C2059: 语法错误:“)”
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(164,44): error C2065: “number”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(164,64): error C2059: 语法错误:“)”
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(165,4): error C2143: 语法错误: 缺少“;”(在“return”的前面)
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(168,2): error C2059: 语法错误:“return”
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(169,1): error C2059: 语法错误:“}”
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(169,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(173,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(173,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(237,8): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(237,10): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(236,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(236,9): message : 占位符和其参数预计 7 可变参数，但提供的却是 0 参数
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(236,9): message : 缺失的可变参数 1 为格式字符串“%s”所需
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(237,12): error C2065: “number”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(237,25): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(237,29): error C2065: “className”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(237,45): error C2065: “gt”: 未声明的标识符
+C:\Users\h\source\repos\超期图书管理系统\源.cpp(237,47): fatal error C1003: 错误计数超过 100；正在停止编译

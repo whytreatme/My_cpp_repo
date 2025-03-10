@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a490464-8684-4e9a-851f-14145fa7b254": {
+      "ProjectGuid": "9a490464-8684-4e9a-851f-14145fa7b254",
+      "DisplayName": "指针变量输出字符串1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
