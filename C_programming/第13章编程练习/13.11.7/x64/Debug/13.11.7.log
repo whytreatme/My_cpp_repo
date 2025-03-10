@@ -1,0 +1,5 @@
+﻿  13.11.7.cpp
+C:\Users\h\source\第13章编程练习\13.11.7\13.11.7.cpp(17,22): warning C4101: “file2”: 未引用的局部变量
+C:\Users\h\source\第13章编程练习\13.11.7\13.11.7.cpp(17,10): warning C4101: “file1”: 未引用的局部变量
+C:\Users\h\source\第13章编程练习\13.11.7\13.11.7.cpp(16,13): warning C4101: “d”: 未引用的局部变量
+  13.11.7.vcxproj -> C:\Users\h\source\第13章编程练习\13.11.7\x64\Debug\13.11.7.exe
