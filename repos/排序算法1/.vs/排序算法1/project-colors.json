@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "22bfd7e8-1a3a-411d-82c6-df1057574c0a": {
+      "ProjectGuid": "22bfd7e8-1a3a-411d-82c6-df1057574c0a",
+      "DisplayName": "排序算法1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4893e877-e90a-4935-ae52-4eba2c46a2c4": {
+      "ProjectGuid": "4893e877-e90a-4935-ae52-4eba2c46a2c4",
+      "DisplayName": "指向指针的指针2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

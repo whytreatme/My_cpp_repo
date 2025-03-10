@@ -1,0 +1,8 @@
+﻿  超大scanf_s.cpp
+C:\Users\h\source\repos\超大scanf_s\超大scanf_s\超大scanf_s.cpp(10,13): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\h\source\repos\超大scanf_s\超大scanf_s\超大scanf_s.cpp(10,13): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\h\source\repos\超大scanf_s\超大scanf_s\超大scanf_s.cpp(10,13): message : 缺失的可变参数 2 为格式字符串“%s”所需
+C:\Users\h\source\repos\超大scanf_s\超大scanf_s\超大scanf_s.cpp(10,13): message : 此参数用作缓冲区大小
+C:\Users\h\source\repos\超大scanf_s\超大scanf_s\超大scanf_s.cpp(11,14): warning C4477: “printf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+C:\Users\h\source\repos\超大scanf_s\超大scanf_s\超大scanf_s.cpp(11,14): warning C4313: “printf_s”: 格式字符串中的“%s”与“int”类型的参数 1 冲突
+  超大scanf_s.vcxproj -> C:\Users\h\source\repos\超大scanf_s\x64\Debug\超大scanf_s.exe

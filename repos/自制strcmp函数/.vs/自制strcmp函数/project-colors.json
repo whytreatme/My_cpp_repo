@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c9105ce0-d139-495f-ab79-e901d1abbff0": {
+      "ProjectGuid": "c9105ce0-d139-495f-ab79-e901d1abbff0",
+      "DisplayName": "自制strcmp函数",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

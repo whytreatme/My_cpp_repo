@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f68fe2ab-b264-46cd-964d-2171bb14ab25": {
+      "ProjectGuid": "f68fe2ab-b264-46cd-964d-2171bb14ab25",
+      "DisplayName": "简单排序",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
