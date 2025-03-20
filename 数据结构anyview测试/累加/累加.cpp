@@ -1,11 +1,25 @@
-﻿// 14.18.5.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
+﻿// 累加.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
 //
 
-#include <iostream>
-
+#include <stdio.h>
+#include<math.h>
+float Polynomial(int n, int a[], float x0)
+{
+    float sum = 0;
+    int i;
+    for (i = 0; i < n; i++)
+    {
+        sum += a[i] * pow(x0, i);
+    }
+    return sum;
+}
 int main()
 {
-    std::cout << "Hello World!\n";
+    
+    int arr[4] = { 1,2,3,4 };
+    float result = Polynomial(4, arr, 1.5);
+    printf_s("%f\n", result);
+    return 0;
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
